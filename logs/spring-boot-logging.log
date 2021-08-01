@@ -1,0 +1,4 @@
+2021-08-01 11:01:48.435  INFO 4060 --- [RMI TCP Connection(1276)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-08-01 11:01:48.502  INFO 4060 --- [RMI TCP Connection(1276)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-08-01 11:01:48.505  INFO 4060 --- [RMI TCP Connection(1276)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2021-08-01 11:01:48.511  INFO 4060 --- [RMI TCP Connection(1276)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
